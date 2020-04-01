@@ -1,6 +1,7 @@
 # CakePHP 3
 
 /vendor/*
+/webroot/img/*
 /config/app.php
 
 /tmp/cache/models/*
